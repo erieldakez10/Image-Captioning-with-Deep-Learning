@@ -1,0 +1,26 @@
+{
+"name": "image-captioning-with-deep-learning",
+"version": "1.0.0",
+"description": "This project aims to implement a deep learning model for generating captions for images. Leveraging convolutional neural networks (CNNs) for feature extraction and recurrent neural networks (RNNs) for sequence generation, the model learns to understand the content of images and produce descriptive captions.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/erieldakez10/Image-Captioning-with-Deep-Learning.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "erieldakez10",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
